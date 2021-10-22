@@ -2,9 +2,9 @@
 Team 💬 collaboration, 📈 monitoring and 🤸 activity management tools
 
 ## Applications
-1. Backend (developed with Golang)
-2. Website (developed with Vue + Tailwind CSS)
-3. Mobile App (developed with Flutter)
+1. [Backend (developed with Golang)](https://github.com/golfz/campfire-go)
+2. [Website (developed with Vue + Tailwind CSS)](https://github.com/golfz/campfire-website)
+3. [Mobile App (developed with Flutter)](https://github.com/golfz/campfire-flutter)
 
 ## Feature for user
 - User can create workspaces.
